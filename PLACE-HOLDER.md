@@ -1,1 +1,2 @@
 Create an Angular project in this folder. Following instructions provided in Angular Lesson 1 Studio.
+Create an Angular project in this folder. Following instructions provided in Angular Lesson 1 Studio.
